@@ -16,7 +16,6 @@ regex
 scikit-learn
 scipy
 six
-sklearn
 threadpoolctl
 tqdm
 tzdata
