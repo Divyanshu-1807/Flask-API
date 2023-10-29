@@ -21,3 +21,4 @@ tqdm
 tzdata
 werkzeug
 zipp
+gunicorn
