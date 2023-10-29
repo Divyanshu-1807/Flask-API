@@ -25,7 +25,6 @@ colorama==0.4.4
 comm==0.1.4
 confection==0.0.1
 cryptography==41.0.1
-cx-Freeze @ file:///C:/Programming/Tkinter/cx_Freeze-6.5.3-cp39-cp39-win_amd64.whl
 cycler==0.10.0
 cyhunspell==2.0.2
 cymem==2.0.6
